@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     description='A repository of clean code exercises',
     author='Jane Doe',
-    author_email='jane.doe@newdomain.com',
+    author_email='jane.doe@updateddomain.com',
     url='https://github.com/yourusername/clean-code-exercises',
     license='MIT',
     install_requires=[],
